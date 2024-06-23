@@ -1,4 +1,4 @@
-# Home Assistant Add-ons: Greg's repository
+# Home Assistant Add-ons: This is a Fork from Greg's repository https://github.com/gdrapp/hass-addons . Greg has stopped maintaining the original version . 
 
 Add-ons for Home Assistant written by Greg Rapp.
 
